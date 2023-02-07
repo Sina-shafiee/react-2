@@ -1,0 +1,34 @@
+span {
+  padding: 0.1rem 0.2rem;
+  border-radius: 5px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.red {
+  background-color: #e53e3e;
+}
+
+.orange {
+  background-color: #dd6b20;
+}
+
+.yellow {
+  background-color: #d69e2e;
+}
+
+.green {
+  background-color: #38a169;
+}
+
+.blue {
+  background-color: #3182ce;
+}
+
+.purple {
+  background-color: #805ad5;
+}
+
+.pink {
+  background-color: #d53f8c;
+}
